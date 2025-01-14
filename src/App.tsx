@@ -18,7 +18,7 @@ function IPLookup() {
     queryKey: ['ipData', ipAddress],
     queryFn: async () => {
       if (!ipAddress) return null;
-      const response = await fetch(`http://ip-api.com/json/${ipAddress}`);
+      const response = await fetch(`https://ip-api.com/json/${ipAddress}`);
       if (!response.ok) {
         throw new Error('Failed to fetch IP data');
       }
