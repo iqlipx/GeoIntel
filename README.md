@@ -35,6 +35,12 @@ Once the container is running, open your browser and visit:
 http://localhost:4173
 ```
 
+## Screenshots
+
+![FirstView](images/landing.png)
+
+![Info](images/map.png)
+
 ## Socials & Contact 🌍
 GitHub: https://github.com/iqlipx
 
