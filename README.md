@@ -41,6 +41,16 @@ http://localhost:4173
 
 ![Info](images/map.png)
 
+## Credits
+
+This project uses the following services:
+
+- [IP-API](https://ip-api.com/) for IP geolocation data.
+- [OpenStreetMap](https://www.openstreetmap.org/) for mapping and visualization.
+
+A huge thanks to these services for providing free and valuable APIs! 🙌
+
+
 ## Socials & Contact 🌍
 GitHub: https://github.com/iqlipx
 
